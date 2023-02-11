@@ -3,7 +3,7 @@ import React from "react";
 import {ReactComponent as Logo} from '../components/svg/logo.svg';
 import { Link } from "react-router-dom";
 
-// [TODO] Authenication
+// [TODO] authentication
 import Cookies from 'js-cookie'
 
 export default function SignupPage() {
@@ -18,7 +18,7 @@ export default function SignupPage() {
   const onsubmit = async (event) => {
     event.preventDefault();
     console.log('SignupPage.onsubmit')
-    // [TODO] Authenication
+    // [TODO] authentication
     Cookies.set('user.name', name)
     Cookies.set('user.username', username)
     Cookies.set('user.email', email)

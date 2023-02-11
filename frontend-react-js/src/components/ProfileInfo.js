@@ -2,7 +2,7 @@ import './ProfileInfo.css';
 import {ReactComponent as ElipsesIcon} from './svg/elipses.svg';
 import React from "react";
 
-// [TODO] Authenication
+// [TODO] authentication
 import Cookies from 'js-cookie'
 
 export default function ProfileInfo(props) {
@@ -14,7 +14,7 @@ export default function ProfileInfo(props) {
 
   const signOut = async () => {
     console.log('signOut')
-    // [TODO] Authenication
+    // [TODO] authentication
     Cookies.remove('user.logged_in')
     //Cookies.remove('user.name')
     //Cookies.remove('user.username')

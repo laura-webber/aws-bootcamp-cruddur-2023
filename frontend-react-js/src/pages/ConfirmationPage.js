@@ -3,7 +3,7 @@ import React from "react";
 import { useParams } from 'react-router-dom';
 import {ReactComponent as Logo} from '../components/svg/logo.svg';
 
-// [TODO] Authenication
+// [TODO] authentication
 import Cookies from 'js-cookie'
 
 export default function ConfirmationPage() {
@@ -23,13 +23,13 @@ export default function ConfirmationPage() {
 
   const resend_code = async (event) => {
     console.log('resend_code')
-    // [TODO] Authenication
+    // [TODO] authentication
   }
 
   const onsubmit = async (event) => {
     event.preventDefault();
     console.log('ConfirmationPage.onsubmit')
-    // [TODO] Authenication
+    // [TODO] authentication
     if (Cookies.get('user.email') === undefined || Cookies.get('user.email') === '' || Cookies.get('user.email') === null){
       setErrors("You need to provide an email in order to send Resend Activiation Code")   
     } else {
