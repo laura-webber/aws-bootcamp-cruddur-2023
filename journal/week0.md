@@ -1,10 +1,10 @@
 # Week 0 — Billing and Architecture
 
 ## Homework Hard Assignments
-- [x] Set a Billing alarm
-- [x] Set a AWS Budget
-- [x] Generate AWS Credentials
-- [x] Use CloudShell
+- [x] Set a Billing alarm: I set the billing alarm via the console while watching Chirag's video.
+- [x] Set a AWS Budget: I set the AWS budget via the console while watching Chirag's video.
+- [x] Generate AWS Credentials: I already had AWS creds on my local machine, but spent some time getting them loaded propertly into the Gitpod environment as well and was able to recreate all of the commands and results Andrew demonstrated.
+- [x] Use CloudShell: I used CloudShell to create an S3 bucket, copy a file from my local machine to the bucket. I verified I was successful by confirming the result in the AWS UI.
 - [x] Conceptual Architecture Diagram ![Conceptual Architecture Diagram](/journal/images/week0-conceptual-diagram.png)
 
 ## Homework Stretch Assignments 
