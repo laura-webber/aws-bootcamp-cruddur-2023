@@ -5,7 +5,7 @@
 - [x] Set a AWS Budget
 - [x] Generate AWS Credentials
 - [x] Use CloudShell
-- [ ] [Conceptual Architecture Diagram](/journal/images/week0-conceptual-diagram.png)
+- [x] ![Conceptual Architecture Diagram](/journal/images/week0-conceptual-diagram.png)
 
 ## Homework Stretch Assignments 
 - [x] Destroy your root account credentials, Set MFA, IAM role
