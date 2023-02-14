@@ -6,7 +6,7 @@
 - [x] Generate AWS Credentials: I already had AWS creds on my local machine, but spent some time getting them loaded propertly into the Gitpod environment as well and was able to recreate all of the commands and results Andrew demonstrated.
 - [x] Use CloudShell: I used CloudShell to create an S3 bucket, copy a file from my local machine to the bucket. I verified I was successful by confirming the result in the AWS UI.
 - [x] [Conceptual Architecture Diagram](https://lucid.app/lucidchart/invitations/accept/inv_7b027d05-0ead-4be9-a081-48b264785e83) ![Conceptual Architecture Diagram](/journal/images/week0-conceptual-diagram.png)
-- [x] [Conceptual Architecture Diagram](https://lucid.app/lucidchart/invitations/accept/inv_7b027d05-0ead-4be9-a081-48b264785e83) ![Conceptual Architecture Diagram](/journal/images/week0-conceptual-diagram.png)
+- [x] [Logical Architecture Diagram](https://lucid.app/lucidchart/da9380c1-991d-4bb5-9b13-3469c1f3cfd8/edit?viewport_loc=-773%2C32%2C2252%2C1022%2C0_0&invitationId=inv_195fbd1f-0613-4a41-8a52-3c1665dd29f4) ![Conceptual Architecture Diagram](/journal/images/week0-conceptual-diagram.png)
 
 ## Homework Stretch Assignments 
 - [x] Destroy your root account credentials, Set MFA, IAM role
