@@ -5,7 +5,7 @@
 - [x] Set a AWS Budget: I set the AWS budget via the console while watching Chirag's video.
 - [x] Generate AWS Credentials: I already had AWS creds on my local machine, but spent some time getting them loaded propertly into the Gitpod environment as well and was able to recreate all of the commands and results Andrew demonstrated.
 - [x] Use CloudShell: I used CloudShell to create an S3 bucket, copy a file from my local machine to the bucket. I verified I was successful by confirming the result in the AWS UI.
-- [x] Conceptual Architecture Diagram ![Conceptual Architecture Diagram](/journal/images/week0-conceptual-diagram.png) Also available ![here] (https://lucid.app/lucidchart/0b2a54b2-41e2-4a7f-b9cd-809f6dbd26ac/edit?invitationId=inv_7b027d05-0ead-4be9-a081-48b264785e83)
+- [x] Conceptual Architecture Diagram (Lucidchart ![link](https://lucid.app/lucidchart/invitations/accept/inv_7b027d05-0ead-4be9-a081-48b264785e83) ![Conceptual Architecture Diagram](/journal/images/week0-conceptual-diagram.png)
 
 ## Homework Stretch Assignments 
 - [x] Destroy your root account credentials, Set MFA, IAM role
