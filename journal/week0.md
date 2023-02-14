@@ -13,4 +13,8 @@
 - [ ] Review all the questions of each pillars in the Well Architected Tool (No specialized lens)
 - [ ] Create an architectural diagram (to the best of your ability) the CI/CD logical pipeline in Lucid Charts
 - [ ] Research the technical and service limits of specific services and how they could impact the technical path for technical flexibility. 
-- [ ] Open a support ticket and request a service limit
+- [x] Open a support ticket and request a service limit: I actually opened a support ticket to purchase my domain through Route53. I was originally blocked from doing so, but the support agent resolved the issue in about 24 hrs.
+
+## Homework Stretch Stretch Stuff I Did on My Own
+- [x] Read chapter 1 of the official [AWS Solution Architect Study Guide](https://www.amazon.com/Certified-Solutions-Architect-Study-Guide/dp/1119713080/ref=asc_df_1119713080/?tag=hyprod-20&linkCode=df0&hvadid=459538011055&hvpos=&hvnetw=g&hvrand=1442647167613858578&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032112&hvtargid=pla-917135384856&psc=1) to cement my understanding of certain concepts. 
+- [x] Ordered this book, [Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems](https://www.amazon.com/dp/1492083127?psc=1&ref=ppx_yo2ov_dt_b_product_details). I work as a customer-facing engineer and we've had some reliability issues lately, so I'm hoping to weave together learnings from this course and book.
