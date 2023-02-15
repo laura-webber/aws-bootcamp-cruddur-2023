@@ -11,7 +11,7 @@
 ## Homework Stretch Assignments 
 - [x] Destroy your root account credentials, Set MFA, IAM role
 - [ ] Use EventBridge to hookup Health Dashboard to SNS and send notification when there is a service health issue.
-- [ ] Review all the questions of each pillars in the Well Architected Tool (No specialized lens)
+- [x] Review all the questions of each pillars in the Well Architected Tool (No specialized lens)
 - [ ] Create an architectural diagram (to the best of your ability) the CI/CD logical pipeline in Lucid Charts
 - [ ] Research the technical and service limits of specific services and how they could impact the technical path for technical flexibility. 
 - [x] Open a support ticket and request a service limit: I actually opened a support ticket to purchase my domain through Route53. I was originally blocked from doing so, but the support agent resolved the issue in about 24 hrs.
