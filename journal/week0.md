@@ -12,7 +12,7 @@
 
 ## Homework Challenges 
 - [x] Destroy your root account credentials, Set MFA, IAM role
-- [ ] Use EventBridge to hookup Health Dashboard to SNS and send notification when there is a service health issue.
+- [ ] Use EventBridge to ~~hookup Health Dashboard to SNS and send notification when there is a service health issue.~~ I set up a notification system through EventBridge to notify me via email every time a file is uploaded to an s3 bucket. I will definitely start using this in my work because my company currently sends files to some of our customers' buckets and the customers are always complaining that they can't find the files and did we send them?. Now I can show them how to monitor this themselves! <img src="/journal/images/week0-eventbridge.png"  width=50% height=50%>
 - [x] Review all the questions of each pillars in the Well Architected Tool (No specialized lens)
 - [x] Open a support ticket and request a service limit: I actually opened a support ticket to purchase my domain through Route53. I was originally blocked from doing so, but the support agent resolved the issue in about 24 hrs.
 - [x] Read chapter 1 of the official [AWS Solution Architect Study Guide](https://www.amazon.com/Certified-Solutions-Architect-Study-Guide/dp/1119713080/ref=asc_df_1119713080/?tag=hyprod-20&linkCode=df0&hvadid=459538011055&hvpos=&hvnetw=g&hvrand=1442647167613858578&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032112&hvtargid=pla-917135384856&psc=1) to cement my understanding of certain concepts. 
