@@ -1,10 +1,12 @@
 # Week 0 — Billing and Architecture
 
 ## Required Assignments
-- [x] Set a Billing alarm: I set the billing alarm via the console while watching Chirag's video.
-- [x] Set a AWS Budget: I set the AWS budget via the console while watching Chirag's video.
-- [x] Generate AWS Credentials: I already had AWS creds on my local machine, but spent some time getting them loaded propertly into the Gitpod environment as well and was able to recreate all of the commands and results Andrew demonstrated.
-- [x] Use CloudShell: I used CloudShell to create an S3 bucket, copy a file from my local machine to the bucket. I verified I was successful by confirming the result in the AWS UI.
+- [x] Set a Billing alarm: I set the billing alarm via the console while watching Chirag's video. <img src="/journal/images/week0-billing-alarm.png"  width=50% height=50%>
+- [x] Set a AWS Budget: I set the AWS budget via the console while watching Chirag's video. <img src="/journal/images/week0-aws-budget.png"  width=50% height=50%>
+- [x] Generate AWS Credentials: I already had AWS creds on my local machine, but spent some time getting them loaded propertly into the Gitpod environment as well and was able to recreate all of the commands and results Andrew demonstrated. <img src="/journal/images/week0-aws-cli-gitpod.png"  width=50% height=50%> 
+- [x] <img src="/journal/images/week0-get-caller.png"  width=50% height=50%>
+- [x] Use CloudShell: I used CloudShell to create an S3 bucket. I verified I was successful by confirming the result in the AWS UI. <img src="/journal/images/week0-cli-mb.png"  width=50% height=50%>
+- [x] <img src="/journal/images/week0-cli-mb-confirm.png"  width=50% height=50%>
 - [x] [Conceptual Architecture Diagram](https://lucid.app/lucidchart/invitations/accept/inv_7b027d05-0ead-4be9-a081-48b264785e83) ![Conceptual Architecture Diagram](/journal/images/week0-conceptual-diagram.png)
 - [x] [Logical Architecture Diagram](https://lucid.app/lucidchart/da9380c1-991d-4bb5-9b13-3469c1f3cfd8/edit?viewport_loc=-773%2C32%2C2252%2C1022%2C0_0&invitationId=inv_195fbd1f-0613-4a41-8a52-3c1665dd29f4) ![Conceptual Architecture Diagram](/journal/images/week0-logical-diagram.png)
 
