@@ -12,6 +12,6 @@
 
 
 ## Homework Challenges 
-- [x] Added `npm install` and `pip install` to my gitpod yaml so the entire app could be run from `docker compose up` instead of needing to stop and run init scripts manually.<br><br><img src="/journal/images/week1-npm-pip-api.png"  width=50% height=50%>
+- [x] Added `npm install` and `pip install` to my gitpod yaml so the entire app could be run from `docker compose up` instead of needing to stop and run init scripts manually.<br><br><img src="/journal/images/week1-npm-pip.png"  width=50% height=50%>
 - [x] Explored Docker Dev Environments<br><br><img src="/journal/images/week1-docker-dev-envs.png"  width=50% height=50%><br><br>
 <img src="/journal/images/week1-docker-dev-envs-2.png"  width=50% height=50%>
