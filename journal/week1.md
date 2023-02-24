@@ -1,20 +1,17 @@
 # Week 1 — App Containerization
 
 ## Required Assignments
-- [x] Watched `How to ask for Technical Help`. I watched this video and very much appreciated it since I work in technical support and customers often send me the vaguest questions!<br><img src="/journal/images/week1-technical-help.png"  width=50% height=50%>
-- [x] Watched `Grading Homework Summaries`.<br> <img src="/journal/images/week1-grading.png"  width=50% height=50%>
-- [x] Watched `Week 1 Livestream: App Containerization`.<br><img src="/journal/images/week1-livestream.png"  width=30% height=30%>
-- [x] Watched `Remember to Commit Your Code`.<br><img src="/journal/images/week1-commit-code.png"  width=30% height=30%> 
-- [x] Watched `Week 1 Spending Considerations`.<br><img src="/journal/images/week1-spending.png"  width=50% height=50%>
-- [x] Watched `Container Security Considerations`.<br><img src="/journal/images/week1-container-security.png"  width=50% height=50%>
-- [x] Containerized my app with Dockerfiles and Docker Compose<br><img src="/journal/images/week1-dockerize-app.png"  width=20% height=20%>
-- [x] Documented the notifications endpoint.<br><img src="/journal/images/week1-notifications-api.png"  width=50% height=50%>
+- [x] Watched `How to ask for Technical Help`. I watched this video and very much appreciated it since I work in technical support and customers often send me the vaguest questions!<br><br><img src="/journal/images/week1-technical-help.png"  width=50% height=50%>
+- [x] Watched `Grading Homework Summaries`.<br><br><img src="/journal/images/week1-grading.png"  width=50% height=50%>
+- [x] Watched `Week 1 Livestream: App Containerization`.<br><br><img src="/journal/images/week1-livestream.png"  width=30% height=30%>
+- [x] Watched `Remember to Commit Your Code`.<br><br><img src="/journal/images/week1-commit-code.png"  width=30% height=30%> 
+- [x] Watched `Week 1 Spending Considerations`.<br><br><img src="/journal/images/week1-spending.png"  width=50% height=50%>
+- [x] Watched `Container Security Considerations`.<br><br><img src="/journal/images/week1-container-security.png"  width=50% height=50%>
+- [x] Containerized my app with Dockerfiles and Docker Compose<br><br><img src="/journal/images/week1-dockerize-app.png"  width=20% height=20%>
+- [x] Documented the notifications endpoint.<br><br><img src="/journal/images/week1-notifications-api.png"  width=50% height=50%>
 
 
 ## Homework Challenges 
-- [x] Destroy your root account credentials, Set MFA, IAM role
-- [x] Use EventBridge to ~~hookup Health Dashboard to SNS and send notification when there is a service health issue.~~ I set up a notification system through EventBridge to notify me via email every time a file is uploaded to an s3 bucket. I will definitely start using this in my work because my company currently sends files to some of our customers' buckets and the customers are always complaining that they can't find the files and did we send them?. Now I can show them how to monitor this themselves! <img src="/journal/images/week0-eventbridge.png"  width=50% height=50%>
-- [x] Review all the questions of each pillars in the Well Architected Tool (No specialized lens)
-- [x] Open a support ticket and request a service limit: I actually opened a support ticket to purchase my domain through Route53. I was originally blocked from doing so, but the support agent resolved the issue in about 24 hrs.
-- [x] Read chapter 1 of the official [AWS Solution Architect Study Guide](https://www.amazon.com/Certified-Solutions-Architect-Study-Guide/dp/1119713080/ref=asc_df_1119713080/?tag=hyprod-20&linkCode=df0&hvadid=459538011055&hvpos=&hvnetw=g&hvrand=1442647167613858578&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032112&hvtargid=pla-917135384856&psc=1) to cement my understanding of certain concepts. 
-- [x] Ordered this book, [Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems](https://www.amazon.com/dp/1492083127?psc=1&ref=ppx_yo2ov_dt_b_product_details) and [Site Reliability Engineering: How Google Runs Production Systems](https://www.amazon.com/gp/product/149192912X/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1). I work as a customer-facing engineer and we've had some reliability issues lately, so I'm hoping to weave together learnings from this course and book.
+- [x] Added `npm install` and `pip install` to my gitpod yaml so the entire app could be run from `docker compose up` instead of needing to stop and run init scripts manually.<br><br><img src="/journal/images/week1-npm-pip-api.png"  width=50% height=50%>
+- [x] Explored Docker Dev Environments<br><br><img src="/journal/images/week1-docker-dev-envs.png"  width=50% height=50%><br><br>
+<img src="/journal/images/week1-docker-dev-envs-2.png"  width=50% height=50%>
