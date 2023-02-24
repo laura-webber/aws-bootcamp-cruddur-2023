@@ -7,7 +7,7 @@
 - [x] Watched `Remember to Commit Your Code`. <img src="/journal/images/week1-commit-code.png"  width=30% height=30%> 
 - [x] Watched `Week 1 Spending Considerations`. <img src="/journal/images/week1-spending.png"  width=50% height=50%>
 - [x] Watched `Container Security Considerations`. <img src="/journal/images/week1-container-security.png"  width=50% height=50%>
-- [x] Containerized my app with Dockerfiles and Docker Compose <img src="/journal/images/week1-dockerize-app.png"  width=50% height=50%>
+- [x] Containerized my app with Dockerfiles and Docker Compose <img src="/journal/images/week1-dockerize-app.png"  width=20% height=20%>
 - [x] Documented the notifications endpoint. <img src="/journal/images/week1-notifications-api.png"  width=50% height=50%>
 
 
