@@ -1,9 +1,10 @@
 # Week 1 — App Containerization
 
 ## Required Assignments
-- [x] Watched `How to ask for Technical Help`. I watched this video and very much appreciated it since I work in technical support and customers often send me the vaguest questions! <img src="/journal/images/week1-technical-help.png"  width=50% height=50%>
-- [x] Watched `Grading Homework Summaries` . <img src="/journal/images/week1-grading.png"  width=50% height=50%>
-- [x] Watched `Week 1 Livestream: App Containerization`. <img src="/journal/images/week1-livestream.png"  width=30% height=30%>
+- [x] Watched `How to ask for Technical Help`. I watched this video and very much appreciated it since I work in technical support and customers often send me the vaguest questions!<br>
+<img src="/journal/images/week1-technical-help.png"  width=50% height=50%>
+- [x] Watched `Grading Homework Summaries`.<br> <img src="/journal/images/week1-grading.png"  width=50% height=50%>
+- [x] Watched `Week 1 Livestream: App Containerization`.<br> <img src="/journal/images/week1-livestream.png"  width=30% height=30%>
 - [x] Watched `Remember to Commit Your Code`. <img src="/journal/images/week1-commit-code.png"  width=30% height=30%> 
 - [x] Watched `Week 1 Spending Considerations`. <img src="/journal/images/week1-spending.png"  width=50% height=50%>
 - [x] Watched `Container Security Considerations`. <img src="/journal/images/week1-container-security.png"  width=50% height=50%>
