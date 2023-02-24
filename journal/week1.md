@@ -7,9 +7,9 @@
 - [x] Watched `Remember to Commit Your Code`. <img src="/journal/images/week1-commit-code.png"  width=30% height=30%> 
 - [x] Watched `Week 1 Spending Considerations`. <img src="/journal/images/week1-spending.png"  width=50% height=50%>
 - [x] Watched `Container Security Considerations`. <img src="/journal/images/week1-container-security.png"  width=50% height=50%>
-- [x] <img src="/journal/images/week0-cli-mb-confirm.png"  width=50% height=50%>
-- [x] [Conceptual Architecture Diagram](https://lucid.app/lucidchart/invitations/accept/inv_7b027d05-0ead-4be9-a081-48b264785e83) ![Conceptual Architecture Diagram](/journal/images/week0-conceptual-diagram.png)
-- [x] [Logical Architecture Diagram](https://lucid.app/lucidchart/da9380c1-991d-4bb5-9b13-3469c1f3cfd8/edit?viewport_loc=-773%2C32%2C2252%2C1022%2C0_0&invitationId=inv_195fbd1f-0613-4a41-8a52-3c1665dd29f4) ![Conceptual Architecture Diagram](/journal/images/week0-logical-diagram.png)
+- [x] Containerized my app with Dockerfiles and Docker Compose <img src="/journal/images/week1-dockerize-app.png"  width=50% height=50%>
+- [x] Documented the notifications endpoint. <img src="/journal/images/week1-notifications-api.png"  width=50% height=50%>
+
 
 ## Homework Challenges 
 - [x] Destroy your root account credentials, Set MFA, IAM role
