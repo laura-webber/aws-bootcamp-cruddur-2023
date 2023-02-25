@@ -13,8 +13,8 @@
 - [x] Wrote a React page for notifications.<br><br><img src="/journal/images/week1-notifications-feed-page.png"  width=50% height=50%>
 - [x] Ran DynamoDB container and ensured that it works.<br><br><img src="/journal/images/week1-dynamo-db-test.png"  width=50% height=50%>
 - [x] Ran Posgres container and ensured that it works.<br><br><img src="/journal/images/week1-postgresql-test.png"  width=50% height=50%>
-<br><br><img src="/journal/images/week1-postgresql-test-2.png"  width=50% height=50%>
-<br><br><img src="/journal/images/week1-postgresql-test-3.png"  width=50% height=50%>
+<br><br><img src="/journal/images/week1-psql-test-2.png"  width=50% height=50%>
+<br><br><img src="/journal/images/week1-psql-test-3.png"  width=50% height=50%>
 
 ## Homework Challenges 
 - [x] Added `npm install` and `pip install` to my gitpod yaml so the entire app could be run from `docker compose up` instead of needing to stop and run init scripts manually.<br><br><img src="/journal/images/week1-npm-pip.png"  width=50% height=50%>
