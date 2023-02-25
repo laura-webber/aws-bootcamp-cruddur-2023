@@ -9,6 +9,7 @@
 - [x] Watched `Container Security Considerations`.<br><br><img src="/journal/images/week1-container-security.png"  width=50% height=50%>
 - [x] Containerized my app with Dockerfiles and Docker Compose<br><br><img src="/journal/images/week1-dockerize-app.png"  width=20% height=20%>
 - [x] Documented the notifications endpoint.<br><br><img src="/journal/images/week1-notifications-api.png"  width=50% height=50%>
+- [x] Wrote a Flask backend endpoint for notifications.<br><br><img src="/journal/images/week1-notifications-endpoint.png"  width=50% height=50%>
 
 
 ## Homework Challenges 
