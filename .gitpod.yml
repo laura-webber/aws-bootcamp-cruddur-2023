@@ -23,6 +23,6 @@ tasks:
   - name: initialize with pip and npm
     init: |
       cd /workspace/aws-bootcamp-cruddur-2023/backend-flask
-      pip3 install -r requirements.txt --no-use-pep517
+      pip3 install -r requirements.txt
       cd /workspace/aws-bootcamp-cruddur-2023/frontend-react-js
       npm i 
