@@ -8,7 +8,7 @@ WORKDIR /backend-flask
 COPY requirements.txt requirements.txt
 
 # inside container, run installation of python libraries
-RUN pip3 install -r requirements.txt
+RUN pip3 install -r requirements.txt --no-use-pep517
 
 # copy files from host to container - . refers to everything in current directory to container directory
 # first period - everything outside container
