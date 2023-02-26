@@ -1,11 +1,5 @@
 # Scratchpad
 
-export HONEYCOMB_API_KEY="6UIPBtXkjcftO21T9XmAaE"
-gp env HONEYCOMB_API_KEY="6UIPBtXkjcftO21T9XmAaE"
-
-export HONEYCOMB_SERVICE_NAME="6UIPBtXkjcftO21T9XmAaE"
-gp env HONEYCOMB_SERVICE_NAME="6UIPBtXkjcftO21T9XmAaE"
-
 # FREE AWS Cloud Project Bootcamp
 
 - Application: Cruddur
