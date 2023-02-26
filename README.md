@@ -1,5 +1,3 @@
-# Scratchpad
-
 # FREE AWS Cloud Project Bootcamp
 
 - Application: Cruddur
