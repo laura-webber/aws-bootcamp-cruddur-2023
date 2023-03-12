@@ -9,7 +9,7 @@
 <br><br><img src="/journal/images/week3-recovery.png"  width=50% height=50%>
 - [x] Show conditional elements and data based on logged in or logged out<br><br><img src="/journal/images/week3-logged-in.png"  width=50% height=50%>
 - [x] Verify JWT Token server side to serve authenticated API endpoints in Flask Application
-<br><br><img src="/journal/images/"  width=50% height=50%>
+<br><br><img src="/journal/images/week3-jwt.png"  width=50% height=50%>
 
 ## Homework Challenges 
 - [] No challenges completed yet
